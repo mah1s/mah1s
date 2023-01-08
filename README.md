@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a performance and reliability engineer focused on making life a bit easier through code.
+
 <!--
 **mah1s/mah1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
